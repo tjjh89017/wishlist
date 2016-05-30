@@ -9,7 +9,7 @@
 * Magic Trackpad
 * Ducky One Black 80%
 * PS4
-* Syology NAS
+* Synology NAS
 * SSD Raid
 * HDD Raid
 
