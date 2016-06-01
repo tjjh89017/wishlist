@@ -8,7 +8,7 @@
 * ARM server R120-P30
 * Magic Trackpad
 * PS4
-* Syology NAS
+* Synology NAS
 * SSD Raid
 * HDD Raid
 
