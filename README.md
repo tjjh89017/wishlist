@@ -7,10 +7,11 @@
 * ARM server H270-T70
 * ARM server R120-P30
 * Magic Trackpad
-* Ducky One Black 80%
 * PS4
 * Syology NAS
 * SSD Raid
 * HDD Raid
 
 ## 完成
+
+* Ducky One Black 80%
