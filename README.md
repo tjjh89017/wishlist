@@ -2,8 +2,6 @@
 
 ## 希望
 
-* 牧羊少年的奇幻之旅
-* Magic Trackpad
 * PS4
 * SSD Raid
 
@@ -14,3 +12,5 @@
 * HDD Raid
 * ARM server R150-T60
 * Intel Xeon E5 機架伺服器
+* 牧羊少年的奇幻之旅
+* Magic Trackpad
