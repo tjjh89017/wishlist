@@ -2,8 +2,8 @@
 
 ## 希望
 
-* PS4
-* SSD Raid
+* 工作用 Thinkpad ，續航力 5 小時
+* VLAN Switch 24 port 極安靜
 
 ## 完成
 
