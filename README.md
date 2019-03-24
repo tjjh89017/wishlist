@@ -4,6 +4,10 @@
 
 * 工作用 Thinkpad ，續航力 5 小時
 * VLAN Switch 24 port 極安靜
+* home lab
+  * Hypervisor
+  * NAS
+  * 10G
 
 ## 完成
 
