@@ -8,6 +8,7 @@
   * Hypervisor
   * NAS
   * 10G
+* Micro SD 卡 128G (Netgear M1 用)
 
 ## 完成
 
