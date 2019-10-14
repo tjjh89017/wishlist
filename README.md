@@ -2,13 +2,10 @@
 
 ## 希望
 
-* 工作用 Thinkpad ，續航力 5 小時
-* VLAN Switch 24 port 極安靜
 * home lab
   * Hypervisor
   * NAS
   * 10G
-* Micro SD 卡 128G (Netgear M1 用)
 
 ## 完成
 
@@ -19,3 +16,9 @@
 * Intel Xeon E5 機架伺服器
 * 牧羊少年的奇幻之旅
 * Magic Trackpad
+* Micro SD 卡 128G (Netgear M1 用)
+* VLAN Switch 24 port 極安靜
+
+## 廢棄
+
+* 工作用 Thinkpad ，續航力 5 小時
