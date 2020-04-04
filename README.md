@@ -5,7 +5,9 @@
 * home lab
   * Hypervisor
   * NAS
-  * 10G
+  * 10G NIC (Fujitsu)
+  * 10G DAC (Cisco)
+  * 4T HDD or 2T
 
 ## 完成
 
